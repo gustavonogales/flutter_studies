@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666412456362",
+    "firebase_url": "https://chatflutter-6d2a7.firebaseio.com",
+    "project_id": "chatflutter-6d2a7",
+    "storage_bucket": "chatflutter-6d2a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666412456362:android:c4acd978a852d76bf8f3d3",
+        "android_client_info": {
+          "package_name": "com.nogales.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666412456362-264ecc8s9kccm8nu7t9baogqajlm882d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nogales.chat",
+            "certificate_hash": "c2de5f921a9ac865a8525f3a0bca830ce7c18722"
+          }
+        },
+        {
+          "client_id": "666412456362-niga9vfqo8fa9qadsdo35e33r4alp693.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNW5nkyxHtt3XVGyZW9MMmY1wEaAlB7-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666412456362-niga9vfqo8fa9qadsdo35e33r4alp693.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

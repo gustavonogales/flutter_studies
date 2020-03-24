@@ -41,5 +41,22 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Needed to get photos from library to send as a message into the app</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Needed to take a picture and send as a message into the app</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Needed to get the recorded voice and send as a message into the app</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.666412456362-smvg1kmc0eid4lkk0ik4lurgkgfju4hm</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>

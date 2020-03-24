@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>666412456362-smvg1kmc0eid4lkk0ik4lurgkgfju4hm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.666412456362-smvg1kmc0eid4lkk0ik4lurgkgfju4hm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>666412456362-264ecc8s9kccm8nu7t9baogqajlm882d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDkDuQILB4j8IDnULCbkouaP_IRE5VTqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>666412456362</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nogales.chat</string>
+	<key>PROJECT_ID</key>
+	<string>chatflutter-6d2a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatflutter-6d2a7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:666412456362:ios:1d2583a7a301faa0f8f3d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatflutter-6d2a7.firebaseio.com</string>
+</dict>
+</plist>
